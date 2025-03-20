@@ -2,4 +2,4 @@
 
 Git test. Test successful!
 
-Test again..
+Test again.
