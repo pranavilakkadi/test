@@ -1,3 +1,3 @@
 # Test
 
-Test successful!
+Git test. Test successful!
